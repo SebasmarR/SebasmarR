@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm **Sebastián Marín**
+# 👋 Hi there, I'm **Sebastián Martinez**
 
 💻 *Software Developer in training | Passionate about Clean Code & Continuous Learning*
 
