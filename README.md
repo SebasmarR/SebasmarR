@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm **Sebastián Martinez**
 
+![Cool Mr. Tenna Gif](https://i.redd.it/03m0novsfb5f1.gif)
+
 💻 *Software Developer in training | Passionate about Clean Code & Continuous Learning*
 
 🎓 Currently studying **Systems and Computing Engineering** at [Universidad de los Andes](https://www.uniandes.edu.co/) — Bogotá, Colombia
