@@ -55,4 +55,12 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![SebasmarR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebasmarR&show_icons=true&theme=react&hide=prs)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SebasmarR&layout=compact&theme=react)
+
+---
+
 ⭐️ *Thanks for visiting my profile! Feel free to follow me or ⭐️ a repo you like!*
