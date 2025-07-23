@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🌱 I'm currently learning **Machine learning** in a [Coursera Course!!!](https://www.coursera.org/learn/advanced-learning-algorithms)
+- 🌱 I'm currently learning **Deep Learning** in a [Coursera Course!!!](https://www.coursera.org/learn/advanced-learning-algorithms)
 - ⚒️ I love building small full-stack apps and experimenting with new technologies
 - 📚 Always exploring new frameworks, tools, and best practices
 - 🧠 Interested in system design, frontend performance, and developer productivity
